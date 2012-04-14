@@ -16,7 +16,7 @@ Payment plugin for [aMember](http://www.amember.com/) (version 3) that handles r
 Installation
 ------------
 
-1. [Download](https://github.com/downloads/wpappstore/payment-plugin-for-amember/wpappstore.zip) a zip of the plugin and unzip it
+1. [Download](https://github.com/wpappstore/payment-plugin-for-amember/downloads) the latest zip of the plugin and unzip it
 1. Upload the unzipped *wpappstore* folder to your aMember /plugins/payment/ folder
 1. Login to your aMember control panel
 1. Go to Utilities > Setup/Configuration > Plugins
